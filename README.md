@@ -13,5 +13,6 @@ For a single time TCR run:
 ``zsh tcr.zsh``
 
 For a continous flow of: watching files on save and run TCR:
+
 ``brew install fswatch``
 ``zsh watch.zsh``
