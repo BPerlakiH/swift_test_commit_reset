@@ -7,7 +7,7 @@ Test commit or reset for swift test (under zsh)
 
 ``git init``
 
-Copy the zsh files into the root of the package.
+Copy the zsh files from this repo into the root of the package.
 
 For a single time TCR run:
 
