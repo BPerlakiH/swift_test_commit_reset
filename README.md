@@ -1,5 +1,5 @@
 # Swift test commit or reset (TCR)
-Test commit or reset for swift test (under zsh)
+Test commit or reset for swift packages (under zsh)
 
 # Get started
 
